@@ -23,18 +23,18 @@ const UserMenu = () => {
         <div
           onClick={toggleOpen}
           className="
-            p-4 
-            md:py-1 
-            md:px-2 
-            boder-[1px] 
-            border-neutral-200 
-            flex 
-            flex-row 
-            items-center 
-            gap-3 
-            rounded-full 
-            cursor-pointer 
-            hover:shadow-md 
+            p-4
+            md:py-1
+            md:px-2
+            border-[1px]
+            border-neutral-200
+            flex
+            flex-row
+            items-center
+            gap-3
+            rounded-full
+            cursor-pointer
+            hover:shadow-md
             transition
           "
         >
